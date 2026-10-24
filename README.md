@@ -2,8 +2,8 @@
 
 ## Student Information
 
-- **Student Name:** [Ahmad Mohammad Alatrash]
-- **Student Number:** [202112620]
+- **Student Name:** Ahmad Mohammad Alatrash
+- **Student Number:** 202112620
 - **Course:** Selected Topics in CS - 1
 - **University:** Al-Zaytoonah University of Jordan
 
