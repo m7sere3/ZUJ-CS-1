@@ -81,8 +81,7 @@ The system will use Artificial Intelligence to help students:
 
 ### Project Preview
 
-![AI Student Management System](images/ai_student_management_project.png)
-
+![AI Student Management System](ai_student_management_project.png)
 ---
 
 ## 🎯 My Future Goals
